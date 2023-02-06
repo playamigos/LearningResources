@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8631102cf3a4b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distributed Computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer graphics Resources.md",
+                "file": "Distributed Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer graphics Resources.md",
+                "file": "Distributed Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer graphics Resources.md"
+                "file": "Distributed Computing.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b8affc5b4e4a2b8",
+  "active": "a8631102cf3a4b80",
   "lastOpenFiles": [
-    "AWS.md",
-    "C++.md",
     "Computer graphics Resources.md",
-    "Unreal Engine.md"
+    "Distributed Computing.md",
+    "Unreal Engine.md",
+    "AWS.md",
+    "C++.md"
   ]
 }
