@@ -1,0 +1,30 @@
+
+- Learn basic concepts of computer graphics with basic math and programming
+	- https://github.com/ssloy
+- Maths for Computer graphics - Not a direct guide but will direct you to right resources
+	- https://faculty.cc.gatech.edu/~turk/math_gr.html
+- Great introduction to computer graphics concepts
+	- https://paroj.github.io/gltut/
+- Physically based rendering from theory to implementation
+	- https://www.pbr-book.org
+- Ray tracing
+	- https://github.com/RayTracing/raytracing.github.io
+- Creative coding - Helps with coding to generate art, provides good resource in ML&AI too for artists
+	- https://github.com/terkelg/awesome-creative-coding#online-books
+- Collection of computer graphics related courses
+	- https://github.com/zheng95z/fun-with-computer-graphics
+- Great resources to learn computer graphics
+	- https://github.com/luisnts/awesome-computer-graphics
+- Wanna be a graphics programmer - collected from vulkan.org
+	- Basics
+		- https://github.com/waitin2010/awesome-computer-graphics
+		- https://github.com/luisnts/awesome-computer-graphics
+		- https://legends2k.github.io/note/cg_resources/
+		- https://medium.com/vrtigo/resources-for-beginning-graphics-programming-c0da724381bc
+		- https://careerkarma.com/blog/computer-graphics/
+	- Advanced
+		- https://education.siggraph.org/
+		- https://www.realtimerendering.com/portal.html
+		- https://www.opensourceagenda.com/projects/fun-with-graphics
+	- Coding
+		- https://project-awesome.org/terkelg/awesome-creative-coding

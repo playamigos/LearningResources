@@ -13,58 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal Engine.md",
+                "file": "Computer graphics Resources.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "0bacf9f9033e5d77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94c0df57d890cc8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c9f5ed91f25df9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer graphics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "872b30eadfc7e3b3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer graphics Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer graphics Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer graphics Resources.md"
+              }
             }
           }
         ]
@@ -187,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b21112e320d425e",
+  "active": "9b8affc5b4e4a2b8",
   "lastOpenFiles": [
-    "Computer graphics.md",
-    "C++.md",
     "AWS.md",
+    "C++.md",
+    "Computer graphics Resources.md",
     "Unreal Engine.md"
   ]
 }
