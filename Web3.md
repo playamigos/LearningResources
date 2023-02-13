@@ -1,0 +1,5 @@
+- ApeCoin
+	- https://apecoin.com/about
+- OpenSea learn - Web3, NFTs and many more
+	- https://opensea.io/learn
+- 

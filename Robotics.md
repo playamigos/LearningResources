@@ -1,0 +1,3 @@
+- Electricity and Electronics Robotics
+	- https://archive.org/details/free-course-lab.com-udemy-electricity-electronics-robotics-learn-by-building/1.+Even+basic+electricity+can+be+complicated+and+fun/5.+Ohm's+law+and+power.mp4
+- 

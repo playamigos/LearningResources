@@ -1,0 +1,9 @@
+- BenUI
+	- https://benui.ca/unreal/
+-  https://ikrima.dev/ue4guide/
+- https://de.slideshare.net/GerkeMaxPreussner/gdc-europe-2014
+- https://github.com/donaldwuid/unreal_source_explained
+- https://www.youtube.com/watch?v=IaU2Hue-ApI
+- https://docs.unrealengine.com/5.0/en-US/graphics-programming-for-unreal-engine/
+- https://www.casualdistractiongames.com/post/2017/04/22/getting-started-with-ue4-source-code
+- https://www.casualdistractiongames.com/post/inside-unreal-physics
