@@ -1,6 +1,13 @@
-- BenUI
-	- https://benui.ca/unreal/
+- GAS
+	- https://www.youtube.com/watch?v=WyyUPqdZQfU
+	- https://github.com/tranek/GASDocumentation
+- Multiplayer Networking
+	- https://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf
+- Blueprints
+	- https://romeroblueprints.blogspot.com/p/table-of-contents.html
+
 -  https://ikrima.dev/ue4guide/
+-  https://benui.ca/unreal/
 - https://de.slideshare.net/GerkeMaxPreussner/gdc-europe-2014
 - https://github.com/donaldwuid/unreal_source_explained
 - https://www.youtube.com/watch?v=IaU2Hue-ApI
